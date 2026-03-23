@@ -10,5 +10,5 @@ I enjoy building projects, experimenting with new technologies, and creating too
 </a>
 
 ### :dart: Motto
-:flag_de: "Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt." – Albert Einstein  
-:flag_gb: "Imagination is more important than knowledge, for knowledge is limited." – Albert Einstein
+🇩🇪 "Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt." – Albert Einstein  
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 "Imagination is more important than knowledge, for knowledge is limited." – Albert Einstein
